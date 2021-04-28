@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neha2114
-- 👀 I’m interested in web development and fullstack software development.
+- 👀 I’m interested in web development and full stack software development.
 - 🌱 I’m currently learning Java, C++, React JS, and SQL.
 - 💞️ I’m looking to collaborate on web development projects.
 
